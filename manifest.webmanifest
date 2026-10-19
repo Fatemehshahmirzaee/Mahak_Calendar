@@ -1,0 +1,12 @@
+{
+  "name": "ماهک | Mahak",
+  "short_name": "ماهک",
+  "description": "تبدیل و یادگیری تقویم‌های شمسی، میلادی و قمری",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#08244b",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
